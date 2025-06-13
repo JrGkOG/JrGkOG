@@ -2,7 +2,6 @@
 - 👋 Hi, I’m [`Karthik G`](https://github.com/adofm).  
 - 👾 Aspiring Software Engineer & Open-Source Enthusiast.  
 - 🎯 Bridging the gap between ideas and technology.
-- 👀 My Portfolio: [Coming Soon]  
 - 💻 Into Competitive Programming [[CodeForces](https://codeforces.com/profile/adofm), [LeetCode](https://leetcode.com/adofm)].  
 - 🎼 Full-Stack Developer | DevOps | Web3 | AI | Passionate about building scalable apps, exploring Web3 & AI, and solving exciting problems.
 - 🧠 Wokring on Backend Scalability, Container Orchestration, Smart contracts!  
