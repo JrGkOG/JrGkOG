@@ -3,7 +3,7 @@
 - 🌐 Portfolio: [adofm.vercel.app](https://adofm.vercel.app)  
 - 💻 Aspiring Software Engineer & Open-Source Enthusiast  
 - 🎯 Bridging the gap between ideas and technology  
-- 👾 Competitive Programmer on [Codeforces](https://codeforces.com/profile/adofm) and [LeetCode](https://leetcode.com/adofm)  
+- 👾 Competitive Programmer -> Specialist @[Codeforces](https://codeforces.com/profile/adofm) This is my [LeetCode](https://leetcode.com/adofm)  
 - 🚀 Full-Stack Developer | DevOps | Web3 | AI  
 - 🧠 Currently working on Backend Scalability, Container Orchestration, and Smart Contracts  
 - ⚡ Passionate about building scalable apps, exploring Web3 & AI, and solving exciting problems
