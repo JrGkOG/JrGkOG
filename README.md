@@ -1,14 +1,11 @@
 # 👋 About Me  
 - Hi, I’m [**Karthik G**](https://github.com/adofm)  
-- 🌐 Portfolio: [adofm.vercel.app](https://adofm.vercel.app)  
-- 💻 Aspiring Software Engineer & Open-Source Enthusiast  
-- 🎯 Bridging the gap between ideas and technology  
-- 👾 Competitive Programmer -> Specialist @[Codeforces](https://codeforces.com/profile/adofm) This is my [LeetCode](https://leetcode.com/adofm)  
-- 🚀 Full-Stack Developer | DevOps | Web3 | AI  
-- 🧠 Currently working on Backend Scalability, Container Orchestration, and Smart Contracts  
-- ⚡ Passionate about building scalable apps, exploring Web3 & AI, and solving exciting problems
+- 🌐 Portfolio: [adofm.vercel.app](https://adofm.vercel.app)    
+- 👾 Competitive Programmer -> **Specialist**@[Codeforces](https://codeforces.com/profile/adofm) This is my [LeetCode](https://leetcode.com/adofm)  
+- 🧠 Currently working on AIML, Web3, Model Optimization, Competetive Programming 
 
----
+# Work Experience 
+- SWE Intern@ LG Electronics 
 
 ## 🧠 Languages & Frameworks  
 ![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,next,go,solidity,express,nodejs,postgres,mysql,tailwind,materialui,nginx,regex,bash,pytorch,aws)
@@ -19,22 +16,24 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,windows,apple,arduino,raspberrypi,vscode,visualstudio,firebase,postman,npm,redis,stackoverflow,githubactions,discord)
 
 ---
-
-## 📝 Markup & Web  
-![Markup](https://skillicons.dev/icons?i=html,md)
-
----
-
-## 🔥 GitHub Contributions Graph  
-[![Karthik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adofm&theme=github-dark)](https://github.com/adofm)
-
----
-
-## 📊 GitHub Stats  
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adofm&show_icons=true&theme=dark&hide_border=false)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adofm&layout=compact&theme=dark)](https://github.com/adofm)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adofm&theme=dark)](https://git.io/streak-stats)  
-
+# 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=adofm&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adofm&theme=2077">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adofm&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adofm&theme=aura_dark"></td>
+  </tr>
+</table>
 ---
 
 ## 🏆 GitHub Trophies  
@@ -50,3 +49,5 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=adofm&label=Profile%20views&color=0e75b6&style=flat" alt="adofm" />
 </p>
+
+
