@@ -1,7 +1,7 @@
 # 👋 About Me  
 - Hi, I’m [**Karthik G**](https://github.com/adofm)  
 - 🌐 Portfolio: [adofm.vercel.app](https://adofm.vercel.app)    
-- 👾 Competitive Programmer -> **Specialist**@[Codeforces](https://codeforces.com/profile/adofm) This is my [LeetCode](https://leetcode.com/adofm)  
+- 👾 Competitive Programmer -> **Specialist**@[Codeforces](https://codeforces.com/profile/jrgk) This is my [LeetCode](https://leetcode.com/adofm)  
 - 🧠 Currently working on AIML, Web3, Model Optimization, Competetive Programming 
 
 # Work Experience 
