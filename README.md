@@ -11,11 +11,6 @@
 ![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,next,go,solidity,express,nodejs,postgres,mysql,tailwind,materialui,nginx,regex,bash,pytorch,aws)
 
 ---
-
-## 🧰 Tools  
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,windows,apple,arduino,raspberrypi,vscode,visualstudio,firebase,postman,npm,redis,stackoverflow,githubactions,discord)
-
----
 # 📊 GitHub Stats:
 <table>
   <tr>
