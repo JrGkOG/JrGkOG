@@ -24,10 +24,10 @@
 <table align="center">
 <tr>
   <td>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrgkog&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrgkog&theme=dark">
   </td>
   <td>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrgkog&theme=aura_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jrgkog&theme=dark">
   </td>
 </tr>
 </table>
