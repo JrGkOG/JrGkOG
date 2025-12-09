@@ -1,14 +1,14 @@
-<p>
-  <strong>My Codeforces</strong>
-  <a href="https://codeforces.com/profile/jrgk">
-    <img src="https://badges.joonhyung.xyz/codeforces/jrgk.svg" style="vertical-align:middle"/>
+<p align="center">
+  <a href="https://jrgk.me">
+    <img src="https://img.shields.io/badge/PROFILE-jrgk.me-000000?style=for-the-badge" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <strong>My profile →</strong>
-  <a href="https://jrgk.me">jrgk.me</a>
+  <a href="https://codeforces.com/profile/jrgk">
+    <img src="https://badges.joonhyung.xyz/codeforces/jrgk.svg" />
+  </a>
 </p>
 
-<table>
+
+<table align="center">
 <tr>
 <td>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jrgkog&theme=neon-palenight&hide_border=true&card_width=705">
@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-<table>
+<table align="center">
 <tr>
   <td>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jrgkog&theme=aura_dark">
