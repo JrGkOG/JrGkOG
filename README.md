@@ -2,9 +2,6 @@
   <a href="https://jrgk.me">
     <img src="https://img.shields.io/badge/PROFILE-jrgk.me-000000?style=for-the-badge" />
   </a>
-  <a href="https://codeforces.com/profile/jrgk">
-    <img src="https://badges.joonhyung.xyz/codeforces/jrgk.svg" height="28"/>
-  </a>
 </p>
 
 <br/>
